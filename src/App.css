@@ -1,0 +1,76 @@
+body, header, div, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:#b7aea5;
+    color:black;
+    align-items: center;
+    text-align: center;
+    
+}
+li{
+    margin: 0 auto;
+    list-style-type: none;
+    width: 80%;
+}
+header{
+   margin: 0 auto;
+   text-align: center;
+    background-color:#e33c08;
+    width: 80%;
+    border-radius: 5px;
+   
+   
+}
+button{
+    text-align: center;
+}
+.adicionar{
+    background-color:#e33c08;
+    width: 80%;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin: 0 auto;
+    text-align: center;  
+}
+
+.rodape{
+    background-color: #433D3D;
+    width: 100%;
+    border-radius: 5px;
+   text-align: center;
+   margin-top: 37%;
+   position: absolute;
+   bottom: 0%;
+}
+button{
+    background-color: #433d3d87;
+    width: 20%;
+    border-radius: 5px;
+   
+
+}
+.caixa{
+    background-color: #433d3d87;
+    width: 50%;
+
+}
+input{
+    background-color:#b7aea5;
+    border-radius: 5px;
+    width: 80%;
+    height: 30px;
+}
+
+.statusTarefa{
+    width: 20%;
+}
+.excluirTarefa{
+    width: 20%;
+}
+.texto{
+    width: 60%;
+    margin-left: 20%;
+}
